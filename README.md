@@ -1,0 +1,2 @@
+# GoogleMobileAdsMediationPokktAds
+GoogleMobileAdsMediationPokktAds
